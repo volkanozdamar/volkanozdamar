@@ -1,6 +1,5 @@
-![alt text](https://avatars3.githubusercontent.com/u/1964248?s=460&u=f602930c68c1c3f582f2e02afe3915586af2691b&v=4?style=centerme)
-
-[Blog](https://volkanozdamar.com)            [Gitlab](https://gitlab.com/volkan)
+[Blog](https://volkanozdamar.com)            
+[Gitlab](https://gitlab.com/volkan)
 
 <!--
 **volkanozdamar/volkanozdamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
