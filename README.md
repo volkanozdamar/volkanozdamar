@@ -1,3 +1,6 @@
+💻 Test Automation Specialist
+🚴🏼‍♂️ Bike Commuter
+
 [Blog](https://volkanozdamar.com)            
 [Gitlab](https://gitlab.com/volkan)
 
