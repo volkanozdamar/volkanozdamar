@@ -1,4 +1,4 @@
-<img align="right" src="https://volkanozdamar.com/images/Logo.png" alt="Illustration of Kate friendly showing a gun finger at the viewer" width=320px height=300px />
+<img align="right" src="https://media.kommunity.com/avatar/_avatar_5d4a804bb94e2.jpg" alt="Illustration of Kate friendly showing a gun finger at the viewer" width=300px height=300px />
 
 ### Hi there, I'm Volkan! 🌋
 
