@@ -6,7 +6,6 @@ Experienced Software Quality Assurance Specialist with a demonstrated history of
 
 -   How to reach me: volkan@volkanozdamar.com 
 -   My Personal Blog : <a href="https://volkanozdamar.com">volkanozdamar.com</a>
--   Skype Me : <a href="skype:live:volkanozdamar?call">volkan.ozdamar</a>
 
 
 
