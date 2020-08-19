@@ -1,9 +1,14 @@
-💻 Test Automation Specialist
+<img align="right" src="https://volkanozdamar.com/images/Logo.png" alt="Illustration of Kate friendly showing a gun finger at the viewer" width=320px height=300px />
 
-🚴🏼‍♂️ Bike Commuter
+### Hi there, I'm Volkan! 🌋
 
-[Blog](https://volkanozdamar.com)            
-[Gitlab](https://gitlab.com/volkan)
+Experienced Software Quality Assurance Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Microfocus  -formerly known as HP Enterprise- Products, Test Automation, Selenium and Java. After giving consultancy service to Allianz Türkiye, worked as Quality Assurance Analyst at Sony Türkiye.Now he is working as part of #TrendyolTech as a QA Analyst.
+
+-   How to reach me: volkan@volkanozdamar.com 
+-   My Personal Blog : <a href="https://volkanozdamar.com">volkanozdamar.com</a>
+-   Skype Me : <a href="skype:live:volkanozdamar?call"> Skype Me</a>
+
+
 
 <!--
 **volkanozdamar/volkanozdamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
