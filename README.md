@@ -6,3 +6,8 @@ Experienced Software Quality Assurance Specialist with a demonstrated history of
 
 -   How to reach me : volkan@volkanozdamar.com 
 -   My Personal Blog : <a href="https://volkanozdamar.com">volkanozdamar.com</a>
+
+### Slides
+
+-  [The Story of Behavior Driven Development](https://volkanozdamar.com/slides/BDD/trendyol/)
+-  [Puppeteer - Headless Chrome Node API](https://volkanozdamar.com/slides/puppeteer/sony/Puppeteer.pptx)
