@@ -1,11 +1,23 @@
 <img align="right" src="https://volkanozdamar.com/images/Logo.png" alt="volkanozdamar blog logo" width=300px height=300px />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=volkanozdamar" alt="volkanozdamar" /> </p>
 
-### Hi there, I'm Volkan! 🌋
+### Hi there, I'm Volkan! 🌋 
 
 Experienced Software Quality Assurance Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Microfocus  -formerly known as HP Enterprise- Products, Test Automation, Selenium,Rest Assured and Java. After giving consultancy service to Allianz Türkiye, worked as Quality Assurance Analyst at Sony Türkiye.Now he is working as part of #TrendyolTech as a QA Analyst.
 
 -   How to reach me : volkan@volkanozdamar.com 
 -   My Personal Blog : <a href="https://volkanozdamar.com">volkanozdamar.com</a>
+
+
+
+
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=volkanozdamar&show_icons=true" alt="volkanozdamar" /></p>
+
+<p align="center">
+<a href="https://dev.to/volkan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="volkan" height="30" width="30" /></a>
+<a href="https://twitter.com/volkanozdamar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="volkanozdamar" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/volkanozdamar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="volkanozdamar" height="30" width="30" /></a>
+</p>
 
 ### Slides
 
