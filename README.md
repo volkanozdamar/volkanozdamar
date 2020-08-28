@@ -13,3 +13,7 @@ Experienced Software Quality Assurance Specialist with a demonstrated history of
 
 -  [The Story of Behavior Driven Development](https://volkanozdamar.com/slides/BDD/trendyol/)
 -  [Puppeteer - Headless Chrome Node API](https://volkanozdamar.com/slides/puppeteer/sony/Puppeteer.pptx)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
