@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Volkan! 🌋 
 
-Experienced Software Quality Assurance Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Microfocus  -formerly known as HP Enterprise- Products, Test Automation, Selenium,Rest Assured and Java. After giving consultancy service to Allianz Türkiye, worked as Quality Assurance Analyst at Sony Türkiye.Now he is working as part of #TrendyolTech as a QA Analyst.
+Experienced Software Quality Assurance Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Microfocus  -formerly known as HP Enterprise- Products, Test Automation, Selenium,Rest Assured and Java. After giving consultancy service to Allianz Türkiye, worked as Quality Assurance Analyst at Sony Türkiye.Now he is working as part of #TrendyolTech as a QA Analyst.For more , (https://volkanozdamar.com/cv/index.html)[this is my CV.]
 
 -   Mail Me : volkan@volkanozdamar.com 
 
