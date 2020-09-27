@@ -8,10 +8,10 @@ Experienced Software Quality Assurance Specialist with a demonstrated history of
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Today's Ride](http://volkanozdamar.com/Today-s-Ride/)
 - [Monolithic vs. MicroService Architecture](http://volkanozdamar.com/Monolithic-vs-MicroService-Architecture/)
 - [Basic Docker Commands](http://volkanozdamar.com/Basic-Docker-Commands/)
 - [Just Another Docker Related Post](http://volkanozdamar.com/Just-Another-Docker-Related-Post/)
-- [Software Performance Testing](http://volkanozdamar.com/Software-Performance-Testing/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Talks & Slides
