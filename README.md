@@ -9,7 +9,7 @@ Experienced Software Quality Assurance Specialist with a demonstrated history of
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Run your Crossbrowser Tests With Docker](http://volkanozdamar.com/Run-your-Crossbrowser-Tests-With-Docker/)
-- [Today's Ride](http://volkanozdamar.com/Today-s-Ride/)
+- [Today&#39;s Ride](http://volkanozdamar.com/Today-s-Ride/)
 - [Monolithic vs. MicroService Architecture](http://volkanozdamar.com/Monolithic-vs-MicroService-Architecture/)
 - [Basic Docker Commands](http://volkanozdamar.com/Basic-Docker-Commands/)
 <!-- BLOG-POST-LIST:END -->
