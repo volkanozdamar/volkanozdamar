@@ -16,9 +16,9 @@ Experienced Software Quality Assurance Specialist with a demonstrated history of
 
 ### Talks & Slides
 
-- [Assuring Software Quality](https://www.youtube.com/watch?v=bkihxtMqdWY) [Youtube]
+-  [Assuring Software Quality](https://www.youtube.com/watch?v=bkihxtMqdWY) [Youtube]
 
-- [Mocking with Mountebank and Javabank](https://volkanozdamar.com/slides/mountebank/)
+-  [Mocking with Mountebank and Javabank](https://volkanozdamar.com/slides/mountebank/)
 
 -  [The Story of Behavior Driven Development](https://volkanozdamar.com/slides/BDD/trendyol/)
 
