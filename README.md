@@ -8,7 +8,10 @@ Experienced Software Quality Assurance Specialist with a demonstrated history of
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [A new Blog](https://www.volkanozdamar.com/2022/12/a-new-blog.html)
+- [A real companion for health: Amazfit PowerBuds Pro](http://volkanozdamar.com/A-real-companion-for-health-Amazfit-PowerBuds-Pro/)
+- [What is Kotlin?](http://volkanozdamar.com/What-is-Kotlin/)
+- [Run your Crossbrowser Tests With Docker](http://volkanozdamar.com/Run-your-Crossbrowser-Tests-With-Docker/)
+- [Today&#39;s Ride](http://volkanozdamar.com/Today-s-Ride/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Talks & Slides
