@@ -8,10 +8,10 @@ Highly experienced Software Quality Assurance Specialist with a proven track rec
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Create Test Scenarios with GitHub Copilot &lpar;Step-by-Step&rpar;](http://volkanozdamar.com/Create-Test-Scenarios-with-GitHub-Copilot-Step-by-Step/)
 - [Kotlin Variables and Data Types](http://volkanozdamar.com/Kotlin-variables-and-data-types/)
 - [A real companion for health: Amazfit PowerBuds Pro](http://volkanozdamar.com/A-real-companion-for-health-Amazfit-PowerBuds-Pro/)
 - [What is Kotlin?](http://volkanozdamar.com/What-is-Kotlin/)
-- [Run your Crossbrowser Tests With Docker](http://volkanozdamar.com/Run-your-Crossbrowser-Tests-With-Docker/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Talks & Slides
