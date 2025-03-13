@@ -4,7 +4,8 @@
 
 Highly experienced Software Quality Assurance Specialist with a proven track record in the information technology and services industry. Possesses expertise in Microfocus (formerly known as HP Enterprise) Products, Test Automation, Selenium, REST Assured, and Java. Provided consultancy services to Allianz Türkiye, followed by a Quality Assurance Analyst role at Sony Türkiye. Subsequently, transitioned to a Quality Analyst position at Trendyol, Turkey's largest e-commerce company (part of Alibaba Group). Currently working remotely with D360 Bank as a B2B Contractor.
 
--   Mail Me : volkan@volkanozdamar.com 
+-   Mail Me : volkan@volkanozdamar.com
+-   Resume : [resume.html](https://volkanozdamar.com/resume.html)
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
