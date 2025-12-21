@@ -9,10 +9,10 @@ Highly experienced Software Quality Assurance Specialist with a proven track rec
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding from a QA Perspective](https://volkanozdamar.com/vibe-coding-from-a-qa-perspective.html)
-- [Send test results to Slack with Webhooks](https://volkanozdamar.com/send-test-results-to-slack-with-webhooks.html)
 - [My blog has a new theme](https://volkanozdamar.com/my-blog-has-a-new-theme.html)
 - [Create Test Scenarios with GitHub Copilot &lpar;Step-by-Step&rpar;](https://volkanozdamar.com/create-test-scenarios-with-github-copilot-(step-by-step).html)
+- [Kotlin Variables and Data Types](https://volkanozdamar.com/kotlin-variables-and-data-types.html)
+- [What is Kotlin?](https://volkanozdamar.com/what-is-kotlin?.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### Talks & Slides
